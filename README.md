@@ -4,6 +4,7 @@
 - 💻 Cursando ADS(Análise e desenvolvimento de sistemas)
 - 👨 Pronouns: ele/dele
 - ☕️ adoro tomar um bom café
+- 🕹 gosto de emulação de consoles e games retrô
 <div>
 <a href="https://github.com/BrazilGa077">
 <img height="100em" src="https://github-readme-stats.vercel.app/api?username=BrazilGa077&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
