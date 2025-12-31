@@ -13,7 +13,7 @@
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   <div>
-![BrazilGa GitHub stats(https://github-readme-stats.vercel.app/api?username=BrazilGa077&show_icons=true&theme=dracula)
+![BrazilGa007 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrazilGa077&hide=contribs,prs)
 </div>
 ##
   
