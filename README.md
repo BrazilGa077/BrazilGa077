@@ -5,17 +5,16 @@
 - 👨 Pronouns: ele/dele
 - ☕️ adoro tomar um bom café
 - 🕹 gosto de emulação de consoles e games retrô
-<div>
-<a href="https://beacons.ai/BrazilGa077">
-![BrazilGa GitHub stats(https://github-readme-stats.vercel.app/api?username=BrazilGa077&show_icons=true&theme=dracula)
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+  <div>
+![BrazilGa GitHub stats(https://github-readme-stats.vercel.app/api?username=BrazilGa077&show_icons=true&theme=dracula)
+</div>
 ##
   
 <div>
