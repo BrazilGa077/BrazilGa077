@@ -7,6 +7,7 @@
 - 🕹 gosto de emulação de consoles e games retrô
 
   <div>
+    <a href="https://github.com/BrazilGa077    
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrazilGa077&show_icons=true&theme=dark">
 
   </div>
