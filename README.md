@@ -1,10 +1,12 @@
 ## Olá! Eu sou o Gabriel Brazil!
 
-- 🧑🏻‍💻 Estudando frontend no todo(HTML, Css, Java Script, etc.)
-- 💻 Cursando ADS(Análise e desenvolvimento de sistemas)
+- 🧑🏻‍💻 Estudando frontend e backend no todo(HTML, Css, Java Script,  Java, Python)
+- 👨🏻‍💻 Cursando ADS(Análise e desenvolvimento de sistemas)
 - 👨 Pronouns: ele/dele
-- ☕️ adoro tomar um bom café
+- ☕️ adoro tomar um bom café e fazer projetos em Java
 - 🕹 gosto de emulação de consoles e games retrô
+- 🎲 Estudando bancos de dados
+- 🤓 Nerdasso das tecnologias, HQS, livros, Filmes e Séries
 
   <div>
     <a href="https://github.com/BrazilGa077    
@@ -13,10 +15,11 @@
   </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabs-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Gabs-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabs-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Gabs-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabs-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 ##
